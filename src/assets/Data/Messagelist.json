@@ -1,0 +1,13 @@
+{
+  "messagelist": [
+    {"id": 0, "msg": "Hello hey there","author": "Harshith", "img":"http://www.fbschedules.com/images/logos/fbs/rice-owls.png",
+      "time":"",
+      "date":"2015-03-25T12:00:00Z"
+      },
+    {"id": 1, "msg": "I am fine","author": "Harshith", "img":"http://www.fbschedules.com/images/logos/fbs/rice-owls.png",
+      "time":"",
+      "date":"2015-03-25T12:00:00Z"
+    }
+
+]
+}
